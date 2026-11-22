@@ -1,0 +1,4 @@
+Strategy,RMS_Roll_deg,Min_UKC_cm,Grounding_Risk_s,Prop_Ventilation_pct
+Fixed Light (11 cm),12.85,13,0,43
+Fixed Deep (20 cm),3.66,4,50.6,0
+AQUAHOLICS Adaptive Ballast,5.84,9.5,0,4.1
